@@ -24,3 +24,6 @@ yarn-error.log*
 
 Cargo.lock
 rust_lib/target
+
+debug/
+target/
