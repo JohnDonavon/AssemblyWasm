@@ -1,0 +1,11 @@
+/Users/dschmid/min-example/rust_lib/target/debug/deps/libarrayvec-491dfe5f73157082.rmeta: /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs
+
+/Users/dschmid/min-example/rust_lib/target/debug/deps/arrayvec-491dfe5f73157082.d: /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs /Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs
+
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs:
+/Users/dschmid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs:
