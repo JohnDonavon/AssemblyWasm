@@ -13,4 +13,5 @@ assembly = { package = "miden-assembly", version = "0.9", default-features = fal
 miden-air = { package = "miden-air", version = "0.9", default-features = false }
 miden-vm = { package = "miden-vm", version = "0.9", default-features = false }
 miden-stdlib = { package = "miden-stdlib", version = "0.9", default-features = false }
+miden-lib = { package = "miden-lib", version = "0.2", default-features = false }
 wasm-bindgen = "0.2"
