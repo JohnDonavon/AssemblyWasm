@@ -4,7 +4,11 @@ import init, { compile } from './rust_lib';
 function App() {
   useEffect(() => {
     init().then(() => {
-      console.log(compile());
+      try {
+        console.log(compile());
+      } catch (e) {
+        console.error('WASM ERROR', e.stack);
+      }
     });
   }, []);
 
